@@ -1,4 +1,4 @@
-body {
+html,body {
     text-align: center;
     background-image: url("cats.jpg");
     background-size: cover;
@@ -10,6 +10,8 @@ body {
     font-weight: 400;
     font-style: italic;
     text-shadow: 1px 1px 0px #588157;
+    height: 100%;
+    background-position: center;
 }
 
 @font-face {
@@ -44,3 +46,4 @@ body {
 h2{
     font-size: 50px;
 }
+
