@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-image: url("cats.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+    font-size: large;
+    font-family: "Mate", serif;
+    font-weight: 400;
+    font-style: italic;
+    text-shadow: 1px 1px 0px #588157;
+}
+
+@font-face {
+    font-family: Mate;
+}
+
+#inc-btn {
+    padding: 7px 45px;
+    border: none;
+    border-radius: 10px;
+    background: #588157;
+    font-size: large;
+    color: #ffffff;
+    box-shadow: 2px 2px 0px white;
+
+}
+
+#sv-btn {
+    padding: 7px 70px;
+    border: none;
+    border-radius: 10px;
+    font-size: large;
+    margin-top: 13px;
+    box-shadow: 3px 3px 0px #588157;
+}
+
+#ent{
+    font-size: larger;
+    color: white;
+    font-weight: 600;
+}
+h2{
+    font-size: 50px;
+}
